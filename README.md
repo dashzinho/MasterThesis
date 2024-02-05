@@ -1,4 +1,4 @@
-Feel free to use the code and may it help whomever needs it.
+Feel free to use the code as you see fit and may it help whoever needs it.
 
 The usyields.csv file was download from https://home.treasury.gov/interest-rates-data-csv-archive
 
